@@ -1,0 +1,62 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&family=Cookie&family=Kavoon&family=Merienda:wght@300&family=Rubik+Gemstones&family=Sacramento&family=Special+Elite&display=swap');
+body{
+    margin:10px;
+    background-image:url("https://static.vecteezy.com/system/resources/thumbnails/006/051/267/small/abstract-modern-white-and-grey-background-texture-free-vector.jpg");
+    background-size: cover;
+    
+}
+ul li{
+    color:white;
+    list-style-type: none;
+    display: inline;
+    font-size: 2em;
+    margin-right: 20px;
+}
+.img{
+    height:200px;
+    width:350px;
+}
+.mr{
+    margin-left: 200px;
+}
+nav{
+    background-color:rgb(100, 99, 96);
+}
+div{
+    float:left;
+    margin:12px;
+}
+.i{
+    height:300px;
+    width:225px;
+}
+.p_div{
+    padding:50px;
+    background-color:rgb(100, 99, 96);
+    color:white;
+}
+.p{
+    font-size:40px;
+    font-family: 'Cookie', cursive;
+    border:8px dotted rgb(151, 150, 150);
+    text-align:center;
+}
+.login{
+    color:white;
+}
+.map{
+    width:700px;;
+    height:300px;
+    border:5px groove rgb(151, 150, 150);
+}
+.p1{
+    font-size:39px;
+    font-family: 'Cookie', cursive;
+    border:5px groove rgb(151, 150, 150);
+    text-align:center;
+}
+.img1{
+    border:5px groove rgb(151, 150, 150);
+}
+  

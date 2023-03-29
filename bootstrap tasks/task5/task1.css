@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+    background-image:url("kalam.jpg");
+    background-size:cover;
+}
+.color{
+    background-color: black;
+    color: beige; 
+}
+img{
+    height:100px;
+    width:100px;
+    border-radius: 50%;
+}
+.div{
+    width:40% !important;
+    margin-left:50px;
+    margin-top:50px;
+    /* height:100% !important; */
+}
+.button{
+    border-radius:50% !important;
+}
+.button1{
+    border-radius:40% !important;
+    width:10% !important;
+    height:30% !important;
+}

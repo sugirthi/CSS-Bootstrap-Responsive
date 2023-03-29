@@ -1,0 +1,96 @@
+body{
+    background-color:white;
+}
+.apple{
+    font-size:40px;
+    padding-top:15px;
+    color:red;
+}
+.pizza{
+    font-size:40px;
+    padding-top:15px;
+    color:yellow;
+}
+.div1{
+    background-color:black;
+    width: 220px;
+    height: 350px;
+    border-radius: 30px;
+    padding: 20px;
+    margin: 50px;
+    float: left;
+    box-shadow:5px 5px 20px 15px black;
+}
+.div2{
+    width: 180px;
+    padding: 10px;
+}
+h1{
+    float:left;
+    margin-right: 20px;
+}
+.div3{
+    float: left;
+    background-color:black;
+    width: 220px;
+    height: 350px;
+    border-radius: 30px;
+    padding: 20px;
+    margin: 50px;
+    box-shadow:5px 5px 20px 15px black;
+}
+.div4{
+    float: left;
+    background-color:black;
+    width: 220px;
+    height: 350px;
+    border-radius: 30px;
+    padding: 20px;
+    margin: 50px;
+    box-shadow:5px 5px 20px 15px black;
+}
+.brown{
+    width: 220px;
+    height: 12px;
+    background-color:brown;
+    margin: 0 auto;
+}
+.yellow{
+    width: 220px;
+    height: 12px;
+    background-color:yellow;
+    margin: 0 auto;
+    position: absolute;
+    bottom:150px;
+}
+.red{
+    width: 220px;
+    height: 12px;
+    background-color:red;
+    margin: 0 auto;
+    position: absolute;
+    bottom:150px;
+}
+.con{
+    margin-left: 10%;
+    margin-top: 6%;
+}
+h1,p{
+    color:white;
+}
+.txt{
+    color:red;
+    font-family: cursive;
+}
+.txt2{
+    color:rgb(226, 226, 60);
+    font-family: cursive; 
+}
+.txt3{
+    color:rgb(100, 37, 37);
+    font-family: cursive;
+}
+img{
+    width:50px;
+    height:55px;
+}

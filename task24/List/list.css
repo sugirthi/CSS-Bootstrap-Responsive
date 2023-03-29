@@ -1,0 +1,15 @@
+.roman{
+    list-style-type:upper-roman;
+}
+.caps{
+    list-style-type:upper-alpha;
+}
+.lowerroman{
+    list-style-type:lower-roman;
+}
+/* ol li{
+    list-style-type:number;
+}
+ul li{
+   list-style-position:outside;
+} */

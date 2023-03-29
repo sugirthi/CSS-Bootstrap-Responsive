@@ -1,0 +1,51 @@
+*{
+    background-color: rgb(250, 209, 216); 
+    margin:0 auto;
+}
+.container{
+    font-family:monospace;
+    color:rgb(250, 22, 163);
+    font-size: 30px;
+}
+#input{
+     height:60px;
+     width:300px
+}
+#para{
+    color:rgb(250, 22, 163);
+    font-size: 30px;
+    border:5px dotted rgb(187, 24, 114);
+    font-family:cursive;
+}
+.container1{
+    margin-left:100px;
+}
+.tab{
+    border:15px double rgb(187, 24, 114);
+    height:200px;
+    width:200;
+}                                                                                                         
+h2{
+    text-align:center;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 40px;
+    color:rgb(240, 90, 182);
+}
+button{
+    color:rgb(240, 90, 182);
+    background-color: rgb(187, 24, 114);
+}
+table,th,td,tr{
+    border:1px solid rgb(238, 109, 163);
+    color:rgb(250, 22, 163);
+}
+.p2{
+    text-align:center;
+    font-family:monospace;
+    color: rgb(114, 18, 58);
+
+}
+ul>li{
+    text-align:center;
+}
+}

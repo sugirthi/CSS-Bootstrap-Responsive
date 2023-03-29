@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(226, 159, 243);
+}
+p{
+    position: absolute;
+    top:70px;
+    color:white;
+    font-size:25px;
+    font-family:cursive;
+    margin-left:30px;
+}
+.card-body{
+    text-align: center ;
+}
+h4{
+    font-size:15px;
+}
+h5{
+    font-size:12px;
+}
+/* .con{
+    margin-left: 35%;
+    margin-top: 2%;
+} */
+.button{
+    margin-left:620px;
+}

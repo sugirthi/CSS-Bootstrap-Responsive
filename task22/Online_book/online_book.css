@@ -1,0 +1,63 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Kavoon&family=Merienda:wght@300&family=Sacramento&family=Special+Elite&display=swap');
+body{
+    background-image:url("https://wallpapercave.com/wp/wp2036944.jpg");
+    background-size:cover;
+}
+table{
+    width:100px;
+}
+button{
+    margin-left:160px;
+    height:50px;
+    width:100px;
+}
+.pad{
+    padding:8px 8px 8px 8px;
+}
+.pad1{
+    padding:8px 65px 8px 8px;
+}
+.pad2{
+    padding:8px 105px 8px 8px;
+}
+.pad3{
+    padding:8px 110px 8px 8px;
+}
+.mar{
+    margin-left:60px;
+}
+td{
+    height:65px;
+}
+.container{
+   margin:10px 400px 20px 160px;
+}
+.f1{
+    font-size:30px;
+    color:bisque;
+    font-family: 'Kavoon', cursive;
+    letter-spacing:5px;
+}
+.f2{
+    font-size:20px;
+    color:bisque;
+    font-family: 'Kavoon', cursive;
+    letter-spacing:5px;
+}
+.bg{
+    border-color:rgb(168, 53, 53);
+    border-width:8px;
+    border-style:groove;
+    border-radius:20px;
+    background-color: beige;
+}
+male{
+    color:bisque; 
+}
+h1{
+    font-family: 'Merienda', cursive;
+    font-size:38px;
+    color:bisque;
+    text-shadow:10px 10px 5px rgb(163, 115, 57);
+}

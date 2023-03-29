@@ -1,0 +1,17 @@
+body{
+    background-image:url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/codingbg.png");
+    background-size:cover;
+}
+.div1{
+    background-color:#00000080;
+    border: 10px solid #48ee59;
+    font-family:Bree Serif;
+    color: aliceblue;
+    font-size:55px;
+    padding:30px;
+    margin:30px;
+    position: absolute;
+    top:190px;
+}
+
+

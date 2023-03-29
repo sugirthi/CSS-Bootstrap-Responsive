@@ -1,0 +1,64 @@
+.div1{
+    outline: 12px solid blue;
+    width: 80px;
+    margin: 20px;
+    float:left;  
+}
+.div2{
+    outline: 10px dashed blue;
+    width: 80px;
+    margin: 20px;
+    float:left; 
+}
+.div3{
+    outline: 10px dotted blue;
+    width: 80px;
+    margin: 20px;
+    float:left; 
+}
+.div4{
+    outline: 10px double blue;
+    width: 80px;
+    margin: 20px;
+    float:left; 
+}
+.div5{
+    outline: 10px groove blue;
+    width: 80px;
+    margin: 20px;
+    float:left; 
+}
+.div6{
+    outline: none;
+    width: 80px;
+    margin: 20px;
+    float:left; 
+}
+.div7{
+    outline: 10px ridge blue;
+    width: 80px;
+    margin: 20px;
+    float:left; 
+}
+.div8{
+    outline: 10px inset blue;
+    width: 80px;
+    margin: 20px;
+    float:left; 
+}
+.div9{
+    outline: 10px outset blue;
+    width: 80px;
+    margin: 20px;
+    float:left; 
+}
+.con1{
+    max-width:380px;
+    background-color: rgb(51, 146, 146);
+}
+.con2{
+    max-width:380px;
+}
+.con3{
+    max-width:380px;
+}

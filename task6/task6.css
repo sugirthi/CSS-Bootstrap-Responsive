@@ -1,0 +1,31 @@
+/* body{
+    background-image:url("https://media.blogto.com/articles/2019830-steam-train-new.jpg?w=2048&cmd=resize_then_crop&height=1365&quality=70");
+    background-repeat:no-repeat;
+    background-position:top;
+}
+.container{
+    height:500px;
+    width:500px;
+    background-image:linear-gradient(red,yellow,pink,violet,blue,green);
+} */
+ul li{
+      list-style-type:none;
+      display:inline-block;
+      margin:10px;
+}
+.li{
+    margin-left:1000px;
+}
+h1,p{
+    text-align:center;
+}
+button{
+    margin-left:46%;
+    background-color:rgb(169, 236, 227);
+}
+body{
+    background-color:rgb(169, 236, 227);
+}
+.container{
+    margin-top:200px;
+}

@@ -1,0 +1,26 @@
+body{
+    background-image:url("https://img.freepik.com/free-vector/scene-with-green-grass-many-trees_1308-101050.jpg");
+    background-size: cover;
+}
+.card-content{
+    background-color: rgb(71, 71, 71);
+    color:beige;
+    padding:10px;
+    border-radius:20px;
+    border: 3px solid;
+}
+.img{
+    height:150px;
+    width:150px;
+}
+.img1{
+    height:150px;
+    width:280px;
+}
+.img2{
+    height:150px;
+    width:320px;
+}
+h1{
+    color:beige;
+}

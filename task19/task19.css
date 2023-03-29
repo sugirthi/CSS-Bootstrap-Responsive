@@ -1,0 +1,50 @@
+/* .decoration1{
+    color:blue;
+    text-decoration:underline;
+    font-size:100px;
+    text-transform: capitalize;
+}
+.decoration2{
+    color:rgb(0, 255, 55);
+    text-decoration:overline;
+    font-size:100px;
+    text-transform:lowercase;
+}
+.decoration3{
+    color:rgb(255, 0, 0);
+    text-decoration:line-through;
+    font-size:100px;
+    text-transform:uppercase;
+}
+.p1{
+    text-indent:100px;
+    color:rgb(0, 174, 255);
+    font-size:20px;
+    text-align:justify;
+    line-height:50px;
+    word-spacing:20px;
+    letter-spacing:2px;
+} */
+.image{
+      height:200px;
+      width:400px;
+      margin-left:500px;
+}
+.un{
+    margin-left:570px;
+    color:rgb(71, 107, 24);
+}
+.button{
+    margin-left:650px;
+}
+.container{
+    margin:100px,100px,100px,100px;
+}
+
+
+/* .h1{
+    direction:rtl;
+}
+.h2{
+    direction:ltr;
+} */

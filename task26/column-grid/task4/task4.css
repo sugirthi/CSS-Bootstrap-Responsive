@@ -1,0 +1,23 @@
+.blue{
+    background-color: blue;
+}
+.gray{
+    background-color: gray;
+}
+.green{
+    background-color: green;
+}
+.violet{
+    background-color: violet;
+}
+.yellow{
+    background-color: rgb(167, 167, 16);
+}
+.red{
+    background-color: red;
+}
+div{
+    font-family: cursive;
+    color: beige;
+    font-size:25px;
+}

@@ -1,0 +1,46 @@
+body{
+    background-color:gray;
+    color:white;
+    margin:5px;
+}
+.con1{
+    background-color: black;
+    width:50%;
+    height:650px;
+}
+.con2{
+    padding:20px;
+    text-align: center;
+    float:left;
+}
+span{
+    text-decoration: underline;
+}
+input{
+ background-color: black;
+ border-color: black;
+ padding:10px;
+ font-size:20px;
+ border-bottom:2px solid white;
+ width:90%;
+}
+.icon{
+font-size:25px;
+}
+.mr{
+margin:50px;
+}
+button{
+    width:100%;
+    height:35px;
+}
+.p1{
+    text-align:left;
+}
+.con3{
+    float:right;   
+}
+img{
+    width:665px;
+    height:650px;
+}

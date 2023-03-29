@@ -1,0 +1,17 @@
+table,td,th{
+    border:1px solid rgb(106, 235, 106);
+    border-collapse: collapse;
+    border-radius: 50%;
+}
+th{
+    background-color:rgb(27, 185, 27);
+}
+tbody tr:nth-child(even){
+    background-color:rgb(207, 202, 202);
+}
+.td1{
+    width:250px;
+}
+.th{
+    text-align:left;
+}
